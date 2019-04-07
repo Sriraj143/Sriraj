@@ -1,5 +1,0 @@
-class A{
-
-	psvm(){
-		sopl();
-}}
