@@ -3,4 +3,7 @@ class A{ #dev2
 
 }
 }
+<<<<<<< HEAD
 #feature1 added
+=======
+>>>>>>> cbf81fe... hello file changed
