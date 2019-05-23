@@ -1,6 +1,6 @@
 
 feature1:hello
-Select * from app_case where case_app_ref_num='245657892'
+Select * from app_case where case_app_ref_num='245657893'
 >>>>>>> e5ce30a31658a9f4b27ef33f4ebc1d3a00e1f3ab
 commit1
 commit 2
