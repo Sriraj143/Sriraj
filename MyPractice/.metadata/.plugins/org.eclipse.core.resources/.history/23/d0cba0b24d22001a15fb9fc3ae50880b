@@ -1,0 +1,49 @@
+package com.logical;
+
+class Insured{
+	
+	int age;
+	String name;
+	float sal;
+	static float interest,principle,time;
+	
+	public Insured(int age,String name,float sal,float interest,float principle,float time){
+		this.age=age;
+		this.name=name;
+		this.sal=sal;
+		this.interest=interest;
+		this.principle=principle;
+		this.time=time;
+	}
+		void display(){
+			static{
+				for(int years=1;years<10;years++){
+					System.out.println("Every consective years interest"+years+" "+"year");
+				float si=principle*interest*time/100;
+				System.out.println("Rate of interest with principle amt"+si);
+				principle=principle+si;
+			}
+		if(age>25&&sal>30000){
+			System.out.println("Hi"+name+"you are eligible take money back policy with the premium amt 2000 per month for 200000 coverage amt");
+		}
+		else if(age<25&&sal<30000){
+			System.out.println("Hi"+" "+name+" "+"you are eligible take Jeevanbheema policy with the premium amt 1500 per month with 300000 coverage amt");
+		}
+		else
+			System.out.println("Hi"+" "+name+" "+"Right now we are unable to approve any of the policies as per our internal policies");
+			}
+}
+}
+public class SuggestTermPolicy {
+
+	public static void main(String[] args) {
+
+		Insured i1=new Insured(26, "Rajesh",30000,6,200000,3);
+		Insured i2=new Insured(30,"Ajay",26000,7,300000,6);
+		
+		i1.display();
+		i2.display();
+		
+	}
+
+}

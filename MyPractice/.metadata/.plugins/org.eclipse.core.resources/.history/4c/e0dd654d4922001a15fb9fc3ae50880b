@@ -1,0 +1,38 @@
+package com.logical;
+
+class Insured{
+	
+	int age;
+	String name;
+	float sal;
+	
+	public Insured(int age,String name,float sal){
+		this.age=age;
+		this.name=name;
+		this.sal=sal;
+	}
+	void display(){
+		if(age>25&&sal>=30000){
+			System.out.println("Hi"+name+"you are eligible take money back policy with the premium amt 2000 per month");
+		}
+		else if(age<25&&sal<30000){
+			System.out.println("Hi"+name+"you are eligible take Jeevanbheema policy with the premium amt 2000 per month");
+		}
+		else
+			System.out.println("Hi"+name+"Right now we are unable to approve any of the policies as per our internal policies");
+	}
+}
+
+public class SuggestTermPolicy {
+
+	public static void main(String[] args) {
+
+		Insured i1=new Insured(26, "Rajesh",30000);
+		Insured i2=new Insured(30,"Ajay",26000);
+		
+		i1.display();
+		i2.display();
+		
+	}
+
+}

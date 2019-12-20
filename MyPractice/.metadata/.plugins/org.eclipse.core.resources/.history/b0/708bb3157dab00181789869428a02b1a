@@ -1,0 +1,25 @@
+package constructor;
+
+public class MyDetails {
+
+	Long accNo;
+	String name;
+	String bankName;
+	
+	public MyDetails(Long an,String n,String bName) {
+		accNo=an;
+		name=n;
+		bankName=bName;
+	}
+	
+	void displayDetails(){
+		System.out.println(accNo+" "+name+" "+bankName);
+		}
+	
+	public static void main(String[] args) {
+				
+		Long accNo=059801540737;
+		MyDetails m=new MyDetails(accNo,"Rajkumar","Icici");
+	}
+
+}

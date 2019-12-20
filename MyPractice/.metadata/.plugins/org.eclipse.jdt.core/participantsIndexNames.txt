@@ -1,0 +1,7 @@
+INDEX VERSION 1.126
+D:\MyPractice\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\160164228.index
+\onlinebanking\src
+D:\MyPractice\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1840037535.index
+\JspPractice\src
+D:\MyPractice\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1673076419.index
+\FirstSpringMvcProject\src

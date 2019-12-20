@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.util.Map.Entry"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="Employee"/>
+<fullyQualifiedTypeName name="Employee1"/>
+<fullyQualifiedTypeName name="Employee1.Developer"/>
+<fullyQualifiedTypeName name="javax.servlet.ServletConfig"/>
+<fullyQualifiedTypeName name="java.util.Enumeration"/>
+<fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+<fullyQualifiedTypeName name="java.io.ObjectOutputStream"/>
+<fullyQualifiedTypeName name="java.io.FileInputStream"/>
+<fullyQualifiedTypeName name="java.io.ObjectInputStream"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.Collections"/>
+<fullyQualifiedTypeName name="com.collections.BennameComparator"/>
+<fullyQualifiedTypeName name="java.util.Iterator"/>
+<fullyQualifiedTypeName name="com.collections.BenAgeComparator"/>
+<fullyQualifiedTypeName name="com.collections.Beneficiary"/>
+<fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
+<fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
+<fullyQualifiedTypeName name="com.exception.TestExceptionPropagation"/>
+<fullyQualifiedTypeName name="com.exception.InvalidInsuredException"/>
+<fullyQualifiedTypeName name="java.lang.Exception"/>
+<fullyQualifiedTypeName name="com.exception.InvalidBeneficiaryException"/>
+<fullyQualifiedTypeName name="com.absratction.Rectangle"/>
+<fullyQualifiedTypeName name="com.absratction.Circle"/>
+<fullyQualifiedTypeName name="com.absratction.Insured1"/>
+<fullyQualifiedTypeName name="com.absratction.Policy"/>
+<fullyQualifiedTypeName name="com.absratction.Insured2"/>
+<fullyQualifiedTypeName name="java.lang.Cloneable"/>
+<fullyQualifiedTypeName name="Student"/>
+<fullyQualifiedTypeName name="java.lang.CloneNotSupportedException"/>
+<fullyQualifiedTypeName name="Subject"/>
+<fullyQualifiedTypeName name="com.absratction.Vehicle"/>
+<fullyQualifiedTypeName name="org.springframework.web.servlet.mvc.AbstractController"/>
+<fullyQualifiedTypeName name="org.springframework.web.servlet.ModelAndView"/>
+<fullyQualifiedTypeName name="com.logical.Insured"/>
+</qualifiedTypeNameHistroy>

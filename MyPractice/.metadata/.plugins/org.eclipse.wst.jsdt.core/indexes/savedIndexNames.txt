@@ -1,0 +1,12 @@
+INDEX VERSION 1.122+D:\MyPractice\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1716462401.index
+3715292803.index
+892942022.index
+1139248355.index
+1312259674.index
+4065472620.index
+1007437241.index
+2015814838.index
+3588465979.index
+4253242634.index
+2405836719.index

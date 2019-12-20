@@ -1,0 +1,16 @@
+
+public class BankInfo {
+
+	String bankName1;
+	String ifsc;
+	AccountHolder accHolder;
+	
+	public BankInfo(String bankName1,String ifsc,AccountHolder accHolder) {
+		this.bankName1=bankName1;
+		this.accHolder=accHolder;
+		this.ifsc=ifsc;
+	}
+	void showDetails(){
+		System.out.println();
+	}
+}

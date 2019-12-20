@@ -1,0 +1,14 @@
+
+public class AccountHolder {
+	
+	String accHolderName;
+	String ifsc;
+	String bankName;
+	
+	public AccountHolder(String accHolderName,String ifsc,String bankName) {
+		
+		this.accHolderName=accHolderName;
+		this.ifsc=ifsc;
+		this.bankName=bankName;
+	}
+}

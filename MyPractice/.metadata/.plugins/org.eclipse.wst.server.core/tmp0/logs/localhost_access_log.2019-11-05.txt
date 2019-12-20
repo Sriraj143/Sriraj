@@ -1,0 +1,17 @@
+127.0.0.1 - - [05/Nov/2019:16:22:43 +0530] "GET / HTTP/1.1" 404 1036
+127.0.0.1 - - [05/Nov/2019:16:40:25 +0530] "GET / HTTP/1.1" 404 1036
+0:0:0:0:0:0:0:1 - - [05/Nov/2019:16:40:27 +0530] "GET /JspPractice/ HTTP/1.1" 200 371
+0:0:0:0:0:0:0:1 - - [05/Nov/2019:16:40:33 +0530] "GET /JspPractice/welcome.jsp HTTP/1.1" 200 281
+0:0:0:0:0:0:0:1 - - [05/Nov/2019:16:41:27 +0530] "GET /JspPractice/welcome.jsp HTTP/1.1" 200 281
+0:0:0:0:0:0:0:1 - - [05/Nov/2019:16:42:41 +0530] "GET /JspPractice/welcome.jsp HTTP/1.1" 200 281
+0:0:0:0:0:0:0:1 - - [05/Nov/2019:16:42:48 +0530] "GET /JspPractice/welcome.jsp HTTP/1.1" 200 281
+0:0:0:0:0:0:0:1 - - [05/Nov/2019:16:46:41 +0530] "GET /JspPractice/welcome.jsp HTTP/1.1" 200 296
+0:0:0:0:0:0:0:1 - - [05/Nov/2019:16:46:42 +0530] "GET /JspPractice/welcome.jsp HTTP/1.1" 200 296
+127.0.0.1 - - [05/Nov/2019:16:47:05 +0530] "GET / HTTP/1.1" 404 1036
+0:0:0:0:0:0:0:1 - - [05/Nov/2019:16:47:05 +0530] "GET /JspPractice/ HTTP/1.1" 200 238
+0:0:0:0:0:0:0:1 - - [05/Nov/2019:16:49:36 +0530] "GET /JspPractice/ HTTP/1.1" 200 237
+0:0:0:0:0:0:0:1 - - [05/Nov/2019:16:49:41 +0530] "GET /JspPractice/ HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [05/Nov/2019:16:49:47 +0530] "GET /JspPractice/welcome.jsp?uname=Raj HTTP/1.1" 200 295
+127.0.0.1 - - [05/Nov/2019:22:34:30 +0530] "GET / HTTP/1.1" 404 1036
+0:0:0:0:0:0:0:1 - - [05/Nov/2019:22:34:30 +0530] "GET /JspPractice/ HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [05/Nov/2019:22:34:37 +0530] "GET /JspPractice/welcome.jsp?uname=Raj HTTP/1.1" 200 295

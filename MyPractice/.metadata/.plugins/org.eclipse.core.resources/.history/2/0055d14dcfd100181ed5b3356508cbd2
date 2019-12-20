@@ -1,0 +1,21 @@
+
+public class BankInfo {
+
+	String bankName;
+	String ifsc;
+	AccountHolder accHolder;
+	
+	public BankInfo(String bankName,String ifsc,AccountHolder accHolder) {
+		this.bankName=bankName;
+		this.accHolder=accHolder;
+		this.ifsc=ifsc;
+	}
+	void showDetails(){
+		System.out.println(bankName+" "+ifsc);
+		System.out.println(accHolder.accNum+" "+accHolder.ifsc+" "+accHolder.accHolderName);
+	}
+	
+	public static void main(String ags[]){
+		BankIfo b1=new BankInfo("AdarshBank","ICIC0000","");
+	}
+}

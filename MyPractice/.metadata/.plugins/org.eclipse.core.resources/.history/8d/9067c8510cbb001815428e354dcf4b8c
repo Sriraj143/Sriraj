@@ -1,0 +1,32 @@
+
+public class Ebix {
+	
+	int empId;
+	String empName;
+	static String officeName="Ebix";
+	
+	Ebix(int i,String n){
+		empId=i;
+		empName=n;
+	}
+	
+//method to display the values
+	
+	void showDetails(){
+		System.out.println(empId+" "+empName+" "+officeName);
+	}
+}
+	//class to show the values of objects
+	class Showvalues{
+		public static void main(String[] args) {
+        Ebix e1=new Ebix(100,"Rakesh");
+        Ebix e2=new Ebix(101,"Raj");
+        
+        e1.showDetails();
+        e2.showDetails();    
+		
+	}
+		
+		
+	}
+
